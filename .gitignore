@@ -1,0 +1,7 @@
+__pycache__/
+pictures/
+*/migrations
+.idea/
+.env
+.venv/
+
